@@ -66,6 +66,9 @@ Troubleshooting
         # Record and play back some audio using ALSA command-line tools
         arecord --format=S16_LE --duration=5 --rate=16k --file-type=raw out.raw
         aplay --format=S16_LE --rate=16k --file-type=raw out.raw
+        
+        # upload your alsa setup to the internet so people can help you.
+        bash alsa-info.sh
 
 See also the [troubleshooting section] of the official documentation.
 
