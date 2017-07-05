@@ -59,6 +59,10 @@ Run the sample
 - Run the hotword sample. The sample waits for the "Ok Google" hotword, then records a voice query and plays back the Google Assistant's answer::
 
     python -m hotword
+    
+ - If that works, execute::
+  
+    python3 -m jarvis
 
 Troubleshooting
 ---------------
@@ -77,7 +81,7 @@ See also the `troubleshooting section <https://developers.google.com/assistant/s
 License
 -------
 
-Copyright (C) 2017 Google Inc.
+Copyright (C) 2017 Google Inc, Kitt_ai And aycgit
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
