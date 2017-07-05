@@ -1,3 +1,0 @@
-google-assistant-library
-argparse==1.4.0
-google-auth==1.0.1
