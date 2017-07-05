@@ -55,6 +55,14 @@ Run the sample
 >
 >         python3 -m jarvis
 >
+
+
+
+Changing the hotword
+--------------------
+
+-   The hotword can be changed in jarvis.py
+
 Troubleshooting
 ---------------
 
