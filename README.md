@@ -51,10 +51,10 @@ Run the sample
 
         python -m hotword
 
-> -   If that works, execute:
->
+-   If that works, execute:
+
 >         python3 -m jarvis
->
+
 
 
 
@@ -82,7 +82,7 @@ License
 
 Copyright (C) 2017 Google Inc, Kitt\_ai And aycgit
 
-Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you u
+See the LICENCE file distributed with this work for additional information regarding copyright ownership.
 
   [package]: https://github.com/googlesamples/assistant-sdk-python/tree/master/google-assistant-library
   [Python]: https://www.python.org/
