@@ -133,7 +133,7 @@ with Assistant(credentials) as assistant:
   assistant.set_mic_mute(True)
 
 
-# start first wakewors detection
+# start first wakeword detection
 detector.start(detected_callback=detect_callback, interrupt_check=interrupt_callback, sleep_time=0.03)
 
 
