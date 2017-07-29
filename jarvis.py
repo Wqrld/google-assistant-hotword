@@ -120,7 +120,7 @@ def detect_callback():
       snowboydecoder.play_audio_file(snowboydecoder.DETECT_DONG)
       print("bye")
       detector.start(detected_callback=detect_callback, interrupt_check=interrupt_callback, sleep_time=0.03)
-      print("Listening for next wakewors")
+      print("Listening for next wakeword")
 
 
 
