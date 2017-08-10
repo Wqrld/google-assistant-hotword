@@ -131,7 +131,8 @@ def detect_callback():
 # this part may give problems.
 
 with Assistant(credentials) as assistant:
-  assistant.start()
+  for event in assistant.start():
+      process_event(event)
   assistant.set_mic_mute(True)
 
 
