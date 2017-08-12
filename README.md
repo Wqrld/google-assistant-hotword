@@ -1,4 +1,4 @@
-Python samples for the Google Assistant library
+Currently broken! 
 ===============================================
 
 This repository contains a way to use a custom hotword with google assistant.
